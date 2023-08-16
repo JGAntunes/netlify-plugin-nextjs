@@ -1,5 +1,6 @@
 ![Next.js Runtime](next-js-runtime.png)
 
+
 # Next.js Runtime
 
 Next.js is supported natively on Netlify, and in most cases you will not need to install or configure anything. This
